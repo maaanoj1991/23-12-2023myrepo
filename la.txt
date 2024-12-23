@@ -7,6 +7,7 @@ kkkkkkkkkkkkkkkkkkkkkkkkkk
 llllllllllllllllllllll
 
 <1>
+<<<<<<< HEAD
 
 
 <2>
@@ -37,3 +38,5 @@ tttttttttttttttttttttt
 
 
 <3>
+=======
+>>>>>>> parent of 49fcf07 (2nd commit of la.txt)
